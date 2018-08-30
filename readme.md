@@ -1,6 +1,6 @@
 <h2>API Php + Laravel + SQL 5.7</h2>
 
-<h3>End points</h3>
+<h3>Endpoints</h3>
 
 <p><strong>Criar vendedores -></strong>localhost:8000/criarvendedores</p>
 <p><strong>Criar vendas -></strong>localhost:8000/criarvenda</p>
