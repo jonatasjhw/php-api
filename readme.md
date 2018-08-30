@@ -11,7 +11,7 @@
 <h3>Futuras atualizações</h3>
 <p>- Correção do valor comissão na listagem por ID.</p>
 <p>- Adicionar  data da venda.</p>
-<p>- Colocar o nome ao lado do ID na listagem de vendas e suas respectivas datas</p>
+<p>- Colocar o nome ao lado do ID na listagem de vendas e suas respectivas datas.</p>
 <p>- Ao final de cada enviar um email com um relatório com a soma de todas as vendas efetuadas no dia.</p>
 <p>- Adicionar exclusão e update.</p>
 
